@@ -33,7 +33,17 @@ segmentation to create a highly effective data
 ▪ SEANOE Plankton Imagery Dataset: https://www.seanoe.org/data/00829/94052/
 
 ▪ Our own Synthetic Multi Organism Datasets:
+
 ▪ https://www.kaggle.com/datasets/mohitpatel24/final-yolo-dataset-split
+
 ▪ https://kaggle.com/datasets/cd206da22c9575e61868c38bee40c2bdf2e686b4cc5650bf01062954b30f5b44
 
 ▪ YouTube video link: https://youtu.be/-DJN3FKYtXQ?si=cDiSmPnVjw0AMBV2
+
+References
+
+▪ Reference 1: https://arxiv.org/html/2505.18477v3
+
+▪ Reference 2: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.746297/full
+
+▪ Reference 3: https://arxiv.org/html/2410.16695v2
