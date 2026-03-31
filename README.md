@@ -26,3 +26,11 @@ science.
 ▪ Combining cost-effective Edge AI for field
 deployment with our own Synthetic MultiOrganism dataset and high-detail organism
 segmentation to create a highly effective data
+
+
+❖Primary Datasets Used:
+▪ SEANOE Plankton Imagery Dataset: https://www.seanoe.org/data/00829/94052/
+▪ Our own Synthetic Multi Organism Datasets:
+▪ https://www.kaggle.com/datasets/mohitpatel24/final-yolo-dataset-split
+▪ https://kaggle.com/datasets/cd206da22c9575e61868c38bee40c2bdf2e686b4cc5650bf01062954b30f5b44
+▪ YouTube video link: https://youtu.be/-DJN3FKYtXQ?si=cDiSmPnVjw0AMBV2
